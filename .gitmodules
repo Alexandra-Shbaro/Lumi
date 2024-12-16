@@ -1,0 +1,12 @@
+[submodule "submodules/submodules/informative-website"]
+	path = submodules/submodules/informative-website
+	url = https://github.com/Alexandra-Shbaro/informative-website.git
+[submodule "submodules/submodules/admin-dashboard"]
+	path = submodules/submodules/admin-dashboard
+	url = https://github.com/Alexandra-Shbaro/admin-dashboard.git
+[submodule "submodules/submodules/client-dashboard"]
+	path = submodules/submodules/client-dashboard
+	url = https://github.com/Alexandra-Shbaro/client-dashboard.git
+[submodule "submodules/submodules/employee-dashboard"]
+	path = submodules/submodules/employee-dashboard
+	url = https://github.com/Alexandra-Shbaro/employee-dashboard.git
