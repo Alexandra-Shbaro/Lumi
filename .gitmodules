@@ -10,3 +10,6 @@
 [submodule "submodules/submodules/employee-dashboard"]
 	path = submodules/submodules/employee-dashboard
 	url = https://github.com/Alexandra-Shbaro/employee-dashboard.git
+[submodule "submodules/submodules/superadmin-dashboard"]
+	path = submodules/submodules/superadmin-dashboard
+	url = https://github.com/Alexandra-Shbaro/superadmin-dashboard.git
