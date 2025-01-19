@@ -50,9 +50,17 @@
 
 
 ### Mockups
-| Home screen  | Menu Screen | Order Screen |
-| ------| ------| ------|
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| Login Screen  | Register Screen | Onboarding Screen 1|
+| ---| ---| ---|
+| ![Login](./readme/screenshots/Login.png) | ![Register](./readme/screenshots/Signup.png) | ![Onboarding](./readme/screenshots/Onboarding.png) |
+| Onboarding Screen 2 | Onboarding Screen 3 | Admin Dashboard Screen |
+| ![Onboarding](./readme/screenshots/Onboarding2.png) | ![Onboarding](./readme/screenshots/Onboarding3.png) | ![Dashboard](./readme/screenshots/Dashboard.png) |
+| Campaigns Overview Screen | Single Campaign Overview Screen | Analytics Overview Screen |
+| ![Campaign](./readme/screenshots/Campaigns.png) | ![Single Campaign](./readme/screenshots/SingleCampaign.png) | ![Analytics](./readme/screenshots/Analytics.png) |
+| Reports Screen | Account Management/Strategy Screen | Market Research/Strategy Screen |
+| ![Reports](./readme/screenshots/Reports.png) | ![AC Strategy](./readme/screenshots/Strategy1.png) | ![Market Research](./readme/screenshots/Strategy2.png) |
+| Analysis Overview Screen | 
+| ![Analysis](./readme/screenshots/Analysis.png) | 
 
 <br><br>
 
@@ -70,20 +78,22 @@
 <!-- Implementation -->
 <img src="./readme/title6.svg"/>
 
-
-### User Screens (Mobile)
-| Login screen  | Register screen | Landing screen | Loading screen |
-| ---| ---| ---| ---|
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
-| Home screen  | Menu Screen | Order Screen | Checkout Screen |
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
-
-### Admin Screens (Web)
-| Login screen  | Register screen |  Landing screen |
+### Superadmin Screens 
+| Register Screen  | Onboarding Screen |  Admin Screen |
 | ---| ---| ---|
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
-| Home screen  | Menu Screen | Order Screen |
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| ![Register](./readme/gifs/login.gif) | ![Onboarding](./readme/gifs/signupcompletion.gif) | ![Admin](./readme/gifs/PlatformManager.gif) |
+| Dashboard Screen  | Campaigns Screen | Reports Screen |
+| ![Dashboard](./readme/gifs/Dashboard.gif) | ![Campaign](./readme/gifs/Campaigns.gif) | ![Reports](./readme/gifs/Reports.gif) |
+
+### Strategy Employee Screens 
+| Account Management Screen  | Market Research Screen |  Digital Strategy Screen |
+| ---| ---| ---|
+| ![AM](./readme/gifs/Strategy-AccountManagement.gif) | ![MS](./readme/gifs/Strategy-MarketResearch.gif) | ![DS](./readme/gifs/Strategy-DigitalStrategy.gif) |
+
+### Client Screens 
+| Account Management Screen  | Market Research Screen |  Digital Strategy Screen |
+| ---| ---| ---|
+| ![AM](./readme/gifs/Client-AccountManagement.gif) | ![MS](./readme/gifs/Client-MarketResearch.gif) | ![DS](./readme/gifs/Client-DigitalStrategy.gif) |
 
 <br><br>
 
@@ -91,30 +101,11 @@
 <!-- Prompt Engineering -->
 <img src="./readme/title7.svg"/>
 
-###  Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
+###  AI-Enhanced Campaign Support:
 
-- This project uses advanced prompt engineering techniques to optimize the interaction with natural language processing models. By skillfully crafting input instructions, we tailor the behavior of the models to achieve precise and efficient language understanding and generation for various tasks and preferences.
-
-<br><br>
-
-<!-- AWS Deployment -->
-<img src="./readme/title8.svg"/>
-
-###  Efficient AI Deployment: Unleashing the Potential with AWS Integration:
-
-- This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
+- Using artificial intelligence tools, we streamlined our communication processes and strengthened our campaign analysis capabilities. Through thoughtful AI integration, we can now quickly identify best practices and optimize campaign performance while making our workflow more efficient.
 
 <br><br>
-
-<!-- Unit Testing -->
-<img src="./readme/title9.svg"/>
-
-###  Precision in Development: Harnessing the Power of Unit Testing:
-
-- This project employs rigorous unit testing methodologies to ensure the reliability and accuracy of code components. By systematically evaluating individual units of the software, we guarantee a robust foundation, identifying and addressing potential issues early in the development process.
-
-<br><br>
-
 
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
