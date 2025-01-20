@@ -111,7 +111,7 @@
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
 
-> To set up Coffee Express locally, follow these steps:
+> To set up Lumi locally, follow these steps:
 
 ### Prerequisites
 
