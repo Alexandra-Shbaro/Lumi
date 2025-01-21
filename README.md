@@ -108,9 +108,16 @@
 
 - The application converts employee data into visual analytics using AI capabilities. As team members submit their information, the system generates comprehensive charts while providing intelligent suggestions for plan optimization. This ensures data sharing across departments is clear and well structured with helpful insights rather than raw information.
 
-<img src="./readme/screenshots/Code.png"
+<img src="./readme/screenshots/Code.png">
 
 <br><br>
+
+<!-- AWS Deployment -->
+<img src="./readme/title8.svg"/>
+
+<ul>
+  <li>The project runs on AWS cloud infrastructure, with the backend hosted on an EC2 server. This setup gives us the flexibility to scale as needed while keeping everything running smoothly.</li>
+</ul>
 
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
