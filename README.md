@@ -34,10 +34,14 @@
 
 ###  Lumi is built using the following technologies:
 
-- This project uses the [Next.js](https://nextjs.org/) framework for building web applications. Next.js is a React-based framework that enables server-side rendering, static site generation, and automatic code splitting, which enhances the performance and scalability of web applications.
-- For the backend, the project uses [NestJS](https://nestjs.com/), a progressive Node.js framework for building efficient, scalable, and maintainable server-side applications. NestJS leverages TypeScript and follows the modular architecture pattern, making it suitable for complex applications.
-- For persistent storage (database caching), the app uses [Redis](https://redis.io/), an in-memory data structure store that can be used as a cache, message broker, and queue. Redis improves performance by providing quick access to frequently accessed data, supporting operations like key-value stores, lists, and sets.
+- For the frontend, the project uses the [Next.js](https://nextjs.org/) framework for building web applications. Next.js is a React-based framework that enables server-side rendering, static site generation, and automatic code splitting, which enhances the performance and scalability of web applications.
+- For the backend, the project uses [Express JS](https://expressjs.com/), minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+- For persistent storage, the app uses [MySQL](https://www.mysql.com/), a relational database management system that provides reliable and efficient data storage. 
+- For authentication, the app uses [NextAuth](https://next-auth.js.org/), a flexible and secure authentication library for Next.js applications. NextAuth simplifies the implementation of authentication by providing built-in support for various providers, session management, and JWT handling, ensuring smooth user login and access control.
+- The server uses JWT tokens and the [Jose](https://www.npmjs.com/package/jose) library to ensure all data stays protected and communications between users and the server remains private.
+- The server uses [Node.js](https://nodejs.org/en) to connect with OpenAI's API, enabling AI-powered chart generation capabilities.
 - The app uses the font [Montserrat](https://fonts.google.com/specimen/Montserrat) as its font, and the design of the app adheres to modern web design principles.
+- In the future, a mobile version of the app will be developed using [React Native](https://reactnative.dev/).
 
 <br><br>
 <!-- UI UX -->
@@ -72,21 +76,27 @@
 <img src="./readme/title6.svg"/>
 
 ### Superadmin Screens 
-| Register Screen  | Onboarding Screen |  Admin Screen |
-| ---| ---| ---|
-| ![Register](./readme/gifs/login.gif) | ![Onboarding](./readme/gifs/signupcompletion.gif) | ![Admin](./readme/gifs/PlatformManager.gif) |
-| Dashboard Screen  | Campaigns Screen | Reports Screen |
-| ![Dashboard](./readme/gifs/Dashboard.gif) | ![Campaign](./readme/gifs/Campaigns.gif) | ![Reports](./readme/gifs/Reports.gif) |
+| Onboarding Screen |  Admin Screen |
+| ---| ---|
+| ![Onboarding](./readme/gifs/signupcompletion.gif) | ![Admin](./readme/gifs/PlatformManager.gif) |
+| Dashboard Screen  | Campaigns Screen | 
+| ![Dashboard](./readme/gifs/Dashboard.gif) | ![Campaign](./readme/gifs/Campaigns.gif) | 
+| Reports Screen |
+| ![Reports](./readme/gifs/Reports.gif) |
 
 ### Strategy Employee Screens 
-| Account Management Screen  | Market Research Screen |  Digital Strategy Screen |
-| ---| ---| ---|
-| ![AM](./readme/gifs/Strategy-AccountManagement.gif) | ![MS](./readme/gifs/Strategy-MarketResearch.gif) | ![DS](./readme/gifs/Strategy-DigitalStrategy.gif) |
+| Account Management Screen  | Market Research Screen |   
+| ---| ---|
+| ![AM](./readme/gifs/Strategy-AccountManagement.gif) | ![MS](./readme/gifs/Strategy-MarketResearch.gif) |
+| Digital Strategy |
+| ![DS](./readme/gifs/Strategy-DigitalStrategy.gif) |
 
 ### Client Screens 
-| Account Management Screen  | Market Research Screen |  Digital Strategy Screen |
-| ---| ---| ---|
-| ![AM](./readme/gifs/Client-AccountManagement.gif) | ![MS](./readme/gifs/Client-MarketResearch.gif) | ![DS](./readme/gifs/Client-DigitalStrategy.gif) |
+| Account Management Screen  | Market Research Screen|
+| ---| ---|
+| ![AM](./readme/gifs/Client-AccountManagement.gif) | ![MS](./readme/gifs/Client-MarketResearch.gif) |
+| Digital Strategy Screen |
+| ![DS](./readme/gifs/Client-DigitalStrategy.gif) |
 
 <br><br>
 
@@ -96,7 +106,9 @@
 
 ###  AI-Enhanced Campaign Support:
 
-- Using artificial intelligence tools, we streamlined our communication processes and strengthened our campaign analysis capabilities. Through thoughtful AI integration, we can now quickly identify best practices and optimize campaign performance while making our workflow more efficient.
+- The application converts employee data into visual analytics using AI capabilities. As team members submit their information, the system generates comprehensive charts while providing intelligent suggestions for plan optimization. This ensures data sharing across departments is clear and well structured with helpful insights rather than raw information.
+
+<img src="./readme/screenshots/Code.png"
 
 <br><br>
 
