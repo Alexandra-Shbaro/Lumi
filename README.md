@@ -65,8 +65,7 @@
 
 ###  Architecting Data Excellence: Innovative Database Design Strategies:
 
-
-![Database](./readme/screenshots/db.jpg) 
+<img src="./readme/screenshots/db.jpg"/>
 
 
 <br><br>
@@ -117,7 +116,14 @@
 
 <ul>
   <li>The project runs on AWS cloud infrastructure, with the backend hosted on an EC2 server. This setup gives us the flexibility to scale as needed while keeping everything running smoothly.</li>
+  <li><b>API Documentation: </b>Detailed API documentation can be accessed through [Postman](https://documenter.getpostman.com/view/39583738/2sAYQcGrAV)</li>
+  <li>Visit our live server website at [lumi.com]()</li>
 </ul>
+| Register Endpoint | Create Team|
+| ---| ---|
+| ![register](./readme/screenshots/RegisterAPI.png) | ![createteam](./readme/screenshots/CreateTeam.png) |
+| View All Clients | Edit Campaign |
+| ![view](./readme/screenshots/ViewAllClients.png) | ![edit](./readme/screenshots/EditCampaign.png)
 
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
