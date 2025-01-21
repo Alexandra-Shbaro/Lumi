@@ -50,17 +50,9 @@
 
 
 ### Mockups
-| Login Screen  | Register Screen | Onboarding Screen 1|
-| ---| ---| ---|
-| ![Login](./readme/screenshots/Login.png) | ![Register](./readme/screenshots/Signup.png) | ![Onboarding](./readme/screenshots/Onboarding.png) |
-| Onboarding Screen 2 | Onboarding Screen 3 | Admin Dashboard Screen |
-| ![Onboarding](./readme/screenshots/Onboarding2.png) | ![Onboarding](./readme/screenshots/Onboarding3.png) | ![Dashboard](./readme/screenshots/Dashboard.png) |
-| Campaigns Overview Screen | Single Campaign Overview Screen | Analytics Overview Screen |
-| ![Campaign](./readme/screenshots/Campaigns.png) | ![Single Campaign](./readme/screenshots/SingleCampaign.png) | ![Analytics](./readme/screenshots/Analytics.png) |
-| Reports Screen | Account Management/Strategy Screen | Market Research/Strategy Screen |
-| ![Reports](./readme/screenshots/Reports.png) | ![AC Strategy](./readme/screenshots/Strategy1.png) | ![Market Research](./readme/screenshots/Strategy2.png) |
-| Analysis Overview Screen | 
-| ![Analysis](./readme/screenshots/Analysis.png) | 
+| Single Campaign Overview Screen | Reports Screen | 
+| ---| ---| 
+| ![SCO](./readme/screenshots/SingleCampaignOverview.png) | ![Reports](./readme/screenshots/ReportsOverview.png) | 
 
 <br><br>
 
