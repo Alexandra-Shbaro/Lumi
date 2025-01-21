@@ -117,7 +117,7 @@
 <ul>
   <li>The project runs on AWS cloud infrastructure, with the backend hosted on an EC2 server. This setup gives us the flexibility to scale as needed while keeping everything running smoothly.</li>
   <li><b>API Documentation: </b>Detailed API documentation can be accessed through <a href="https://documenter.getpostman.com/view/39583738/2sAYQcGrAV">Postman</a></li>
-  <li>Visit our live server website at <a href="https://lumi.com">lumi.com</a></li>
+  <li>Visit our live server website at <a href="http://16.171.199.111/">lumi.com</a></li>
 </ul>
 
 | Register Endpoint | Create Team |
