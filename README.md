@@ -144,12 +144,19 @@ To use Lumi, you need install the following:
 
 ### Installation
 
-1. Get a free API Key at [example](https://example.com)
-2. Clone the repo
+1. Clone the repo
    git clone [github](https://github.com/Alexandra-Shbaro/Lumi.git)
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
+   ```
+3. Run the Next JS App
+   ```sh
+   npm run dev
+   ```
+4. Run the Express JS Server
+   ```sh
+   node server
    ```
 
 Now, you should be able to run Lumi locally and explore its features.
