@@ -122,11 +122,11 @@
 
 | Register Endpoint | Create Team |
 | ---| ---|
-| ![register](./readme/screenshots/register.png) | ![createteam](./readme/screenshots/creationteam.png) |
+| ![register](./readme/screenshots/signup.png) | ![createteam](./readme/screenshots/createteamendpoint.png) |
 
 | View All Clients | Edit Campaign |
 | ---| ---|
-| ![view](./readme/screenshots/clients.png) | ![edit](./readme/screenshots/campaignEdit.png)
+| ![view](./readme/screenshots/viewallclientsendpoint.png) | ![edit](./readme/screenshots/editcampaignendpoint.png)
 
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
