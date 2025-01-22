@@ -63,10 +63,9 @@
 <!-- Database Design -->
 <img src="./readme/title5.svg"/>
 
-###  Architecting Data Excellence: Innovative Database Design Strategies:
+###  Building Better Databases: Practical Database to ensure Automation runs smoothly
 
-
-![Database](./readme/screenshots/db.jpg) 
+<img src="./readme/screenshots/db.jpg"/>
 
 
 <br><br>
@@ -117,7 +116,17 @@
 
 <ul>
   <li>The project runs on AWS cloud infrastructure, with the backend hosted on an EC2 server. This setup gives us the flexibility to scale as needed while keeping everything running smoothly.</li>
+  <li><b>API Documentation: </b>Detailed API documentation can be accessed through <a href="https://documenter.getpostman.com/view/39583738/2sAYQcGrAV">Postman</a></li>
+  <li>Visit our live server website at <a href="http://16.171.199.111/">lumi.com</a></li>
 </ul>
+
+| Register Endpoint | Create Team |
+| ---| ---|
+| ![register](./readme/screenshots/RegisterAPI.png) | ![createteam](./readme/screenshots/CreateTeam.png) |
+
+| View All Clients | Edit Campaign |
+| ---| ---|
+| ![view](./readme/screenshots/ViewAllClients.png) | ![edit](./readme/screenshots/EditCampaign.png)
 
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
@@ -135,12 +144,19 @@ To use Lumi, you need install the following:
 
 ### Installation
 
-1. Get a free API Key at [example](https://example.com)
-2. Clone the repo
+1. Clone the repo
    git clone [github](https://github.com/Alexandra-Shbaro/Lumi.git)
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
+   ```
+3. Run the Next JS App
+   ```sh
+   npm run dev
+   ```
+4. Run the Express JS Server
+   ```sh
+   node server
    ```
 
 Now, you should be able to run Lumi locally and explore its features.
