@@ -63,7 +63,7 @@
 <!-- Database Design -->
 <img src="./readme/title5.svg"/>
 
-###  Architecting Data Excellence: Innovative Database Design Strategies:
+###  Building Better Databases: Practical Database to ensure Automation runs smoothly
 
 <img src="./readme/screenshots/db.jpg"/>
 
